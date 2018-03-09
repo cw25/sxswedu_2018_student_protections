@@ -10,10 +10,12 @@ protect your students.
 
 [https://schedule.sxswedu.com/2018/events/PP70203](https://schedule.sxswedu.com/2018/events/PP70203)
 
+## Audio
+
+Audio recording of the session can be found at: *coming soon*
+
 ## Slides
 
 [https://github.com/cw25/sxswedu_2018_student_protections/blob/master/SXSW%202018.pdf](https://github.com/cw25/sxswedu_2018_student_protections/blob/master/SXSW%202018.pdf)
 
-## Audio
-
-Audio recording of the session can be found at: *coming soon*
+![Student Predictions, Student Protections - Title Slide](https://raw.githubusercontent.com/cw25/sxswedu_2018_student_protections/master/spsp_title_preview.png)
