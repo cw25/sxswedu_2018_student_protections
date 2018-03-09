@@ -12,7 +12,7 @@ protect your students.
 
 ## Slides
 
-*coming soon*
+[https://github.com/cw25/sxswedu_2018_student_protections/blob/master/SXSW%202018.pdf](https://github.com/cw25/sxswedu_2018_student_protections/blob/master/SXSW%202018.pdf)
 
 ## Audio
 
