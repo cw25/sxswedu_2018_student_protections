@@ -12,7 +12,7 @@ protect your students.
 
 ## Audio
 
-Audio recording of the session can be found at: *coming soon*
+Audio recording of the session can be found at: [https://soundcloud.com/sxswedu/sxswedu-2018-student-predictions-student-protections](https://soundcloud.com/sxswedu/sxswedu-2018-student-predictions-student-protections)
 
 ## Slides
 
